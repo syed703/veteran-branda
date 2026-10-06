@@ -1,0 +1,2 @@
+import { Shell } from "@/components/site-shell";
+export default function NotFound(){return <Shell><section className="section not-found container"><span className="eyebrow">404 / PAGE NOT FOUND</span><h1>Let’s get you<br/><em>back on track.</em></h1><p>The page you’re looking for isn’t here. Our services are a good place to start.</p><a className="button button-dark" href="/services">Explore our services</a></section></Shell>;}

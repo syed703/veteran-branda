@@ -1,0 +1,152 @@
+[
+  {
+    "role": "hero",
+    "filename": "hero-house.jpg",
+    "photographer": "Curtis Adams",
+    "source_page": "https://www.pexels.com/photo/house-with-green-grass-on-the-lawn-7601179/",
+    "image_url": "https://images.pexels.com/photos/7601179/pexels-photo-7601179.jpeg?cs=srgb&dl=pexels-curtis-adams-1694007-7601179.jpg&fm=jpg",
+    "alt": "White two-story suburban house with black shutters and a landscaped green front yard under a blue sky.",
+    "visual_notes": "Premium white and black house, landscaped lawn, natural blue and green. Keep the full roof and front entry visible in hero crop.",
+    "dimensions": [
+      5472,
+      3648
+    ],
+    "local_path": "/workspace/scratch/d27298242cf4/selected-assets/hero-house.jpg",
+    "bytes": 3560610,
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "demolition",
+    "filename": "demolition.jpg",
+    "photographer": "Jef K",
+    "source_page": "https://www.pexels.com/photo/heavy-excavator-on-construction-site-with-rubble-29565466/",
+    "image_url": "https://images.pexels.com/photos/29565466/pexels-photo-29565466.jpeg?cs=srgb&dl=pexels-jef-k-1518692548-29565466.jpg&fm=jpg",
+    "alt": "Orange tracked excavator standing among concrete rubble at a controlled demolition site.",
+    "visual_notes": "Clear machinery focal point; industrial demolition site with no people, injuries, or war context.",
+    "dimensions": [
+      6000,
+      4000
+    ],
+    "local_path": "/workspace/scratch/d27298242cf4/selected-assets/demolition.jpg",
+    "bytes": 3053921,
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "renovation-about",
+    "filename": "renovation-interior.jpg",
+    "photographer": "Curtis Adams",
+    "source_page": "https://www.pexels.com/photo/a-gray-and-white-themed-living-room-with-a-shiny-wooden-floor-8031995/",
+    "image_url": "https://images.pexels.com/photos/8031995/pexels-photo-8031995.jpeg?cs=srgb&dl=pexels-curtis-adams-1694007-8031995.jpg&fm=jpg",
+    "alt": "Bright neutral living room with polished natural wood flooring, gray armchairs and green plants.",
+    "visual_notes": "Wide elegant lived-in residential room; natural wood flooring dominates foreground.",
+    "dimensions": [
+      5472,
+      3648
+    ],
+    "local_path": "/workspace/scratch/d27298242cf4/selected-assets/renovation-interior.jpg",
+    "bytes": 2154255,
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "hero-video",
+    "filename": "hero-property.mp4",
+    "poster": "hero-poster.webp",
+    "photographer": "Jaxon Matthew Willis",
+    "source_page": "https://www.pexels.com/video/drone-house-in-the-suburbs-17170560/",
+    "video_url": "https://videos.pexels.com/video-files/17170560/17170560-hd_1920_1080_30fps.mp4",
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/",
+    "note": "Trimmed, resized, muted and looped from the source video for homepage hero."
+  },
+  {
+    "role": "service",
+    "filename": "power-washing.webp",
+    "source_page": "https://www.pexels.com/photo/back-view-of-a-person-pressure-washing-a-house-5652626/",
+    "image_url": "https://images.pexels.com/photos/5652626/pexels-photo-5652626.jpeg?cs=srgb&dl=pexels-caitlin-whealy-3517316-5652626.jpg&fm=jpg",
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "service",
+    "filename": "tile-installation.webp",
+    "source_page": "https://www.pexels.com/photo/construction-worker-laying-tile-in-renovation-project-29181494/",
+    "image_url": "https://images.pexels.com/photos/29181494/pexels-photo-29181494.jpeg?cs=srgb&dl=pexels-sejio402-29181494.jpg&fm=jpg",
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "service",
+    "filename": "property-cleaning.webp",
+    "source_page": "https://www.pexels.com/photo/woman-cleaning-living-room-with-mop-36730122/",
+    "image_url": "https://images.pexels.com/photos/36730122/pexels-photo-36730122.jpeg?cs=srgb&dl=pexels-silverkblack-36730122.jpg&fm=jpg",
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "service",
+    "filename": "floor-renovation.webp",
+    "source_page": "https://www.pexels.com/photo/crop-man-installing-laminate-flooring-4263067/",
+    "image_url": "https://images.pexels.com/photos/4263067/pexels-photo-4263067.jpeg?cs=srgb&dl=pexels-kelly-4263067.jpg&fm=jpg",
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "service",
+    "filename": "painting.webp",
+    "source_page": "https://www.pexels.com/photo/man-painting-a-house-1917849/",
+    "image_url": "https://images.pexels.com/photos/1917849/pexels-photo-1917849.jpeg?cs=srgb&dl=pexels-thatguycraig000-1917849.jpg&fm=jpg",
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "service",
+    "filename": "junk-removal.webp",
+    "source_page": "https://www.pexels.com/photo/two-men-carrying-a-sofa-7464266/",
+    "image_url": "https://images.pexels.com/photos/7464266/pexels-photo-7464266.jpeg?cs=srgb&dl=pexels-rdne-7464266.jpg&fm=jpg",
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "service",
+    "filename": "pool-cleaning.webp",
+    "source_page": "https://www.pexels.com/photo/rubber-hosepipe-in-swimming-pool-17410701/",
+    "image_url": "https://images.pexels.com/photos/17410701/pexels-photo-17410701.jpeg?cs=srgb&dl=pexels-ninobur-17410701.jpg&fm=jpg",
+    "license": "Pexels License: free website/commercial use and modification; attribution optional.",
+    "license_url": "https://www.pexels.com/license/"
+  },
+  {
+    "role": "client-supplied-service-artwork",
+    "source": "User-uploaded image (89)(1).png",
+    "filenames": [
+      "company-junk.webp",
+      "company-painting.webp",
+      "company-pool.webp",
+      "company-power-washing.webp",
+      "company-floor.webp",
+      "company-tile.webp",
+      "company-property.webp"
+    ],
+    "note": "Individual crops of the supplied Veteran Solutions promotional collage. Use as service imagery; request original full-resolution project photographs and matched before/after pairs for a final case-study gallery."
+  },
+  {
+    "role": "illustrative-before-after-slider",
+    "filename": "comparison-before.webp",
+    "source": "AI-edited concept from renovation-interior.jpg, which is a Pexels stock image",
+    "note": "This is an illustrative same-room transformation demo only. It is not a completed Veteran Solutions project. Replace both comparison images with a genuine matched before/after pair once supplied."
+  },
+  {
+    "role": "illustrative-before-after-slider",
+    "filename": "comparison-house-before.webp",
+    "source": "AI-edited concept from hero-house.jpg, which is a Pexels stock image",
+    "note": "Illustrative exterior refresh only. Not a completed Veteran Solutions project. Replace with a real matched pair when supplied."
+  },
+  {
+    "role": "illustrative-before-after-slider",
+    "filename": "comparison-pool-before.webp",
+    "source": "AI-edited concept from pool-cleaning.webp, which is a Pexels stock image",
+    "note": "Illustrative pool cleaning only. Not a completed Veteran Solutions project. Replace with a real matched pair when supplied."
+  }
+]
